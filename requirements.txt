@@ -1,0 +1,17 @@
+langchain==0.2.3
+requests==2.32.3
+fastapi==0.111.0
+langchain-openai
+langchain_chroma
+langserve==0.2.2
+langchain_community
+sse_starlette
+pypdf2
+pypdf
+streamlit
+faiss-cpu
+langchain_upstage
+langchain_qdrant
+StrOutputParser
+protobuf==3.20.*
+flask
